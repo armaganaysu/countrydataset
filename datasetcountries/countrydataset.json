@@ -1,0 +1,154 @@
+[
+  {
+    "name": "Algeria",
+    "capital": "Algiers",
+    "region": "Africa",
+    "currency": "DZD",
+    "flag": "https://raw.githubusercontent.com/armaganaysu/countrydataset/main/datasetcountries/dza.png",
+    "language": "Arabic"
+  },
+  {
+    "name": "Andorra",
+    "capital": "Andorra Vella",
+    "region": "Europe",
+    "currency": "EUR",
+    "flag": "https://raw.githubusercontent.com/armaganaysu/countrydataset/main/datasetcountries/and.png",
+    "language": "Catalan"
+  },
+  {
+    "name": "Antartica",
+    "capital": "Antartica",
+    "region": "Polar",
+    "currency": "AUD",
+    "flag": "https://raw.githubusercontent.com/armaganaysu/countrydataset/main/datasetcountries/ata.png",
+    "language": "English"
+  },
+  {
+    "name": "Azerbaijan",
+    "capital": "Baku",
+    "region": "Asia",
+    "currency": "AZN",
+    "flag": "https://raw.githubusercontent.com/armaganaysu/countrydataset/main/datasetcountries/aze.png",
+    "language": "Azerbaijani"
+  },
+  {
+    "name": "Belgium",
+    "capital": "Brussels",
+    "region": "Europe",
+    "currency": "EUR",
+    "flag": "https://raw.githubusercontent.com/armaganaysu/countrydataset/main/datasetcountries/bel.png",
+    "language": "French"
+  },
+  {
+    "name": "Brazil",
+    "capital": "Brasilia",
+    "region": "Americas",
+    "currency": "BRL",
+    "flag": "https://raw.githubusercontent.com/armaganaysu/countrydataset/main/datasetcountries/bra.png",
+    "language": "Portuguese"
+  },
+  {
+    "name": "Cambodia",
+    "capital": "Phnom Penh",
+    "region": "Asia",
+    "currency": "KHR",
+    "flag": "https://raw.githubusercontent.com/armaganaysu/countrydataset/main/datasetcountries/khm.png",
+    "language": "Khmer"
+  },
+  {
+    "name": "Canada",
+    "capital": "Ottawa",
+    "region": "Americas",
+    "currency": "CAD",
+    "flag": "https://raw.githubusercontent.com/armaganaysu/countrydataset/main/datasetcountries/can.png",
+    "language": "English"
+  },
+  {
+    "name": "Cuba",
+    "capital": "Havana",
+    "region": "Americas",
+    "currency": "CUC",
+    "flag": "https://raw.githubusercontent.com/armaganaysu/countrydataset/main/datasetcountries/cub.png",
+    "language": "Spanish"
+  },
+  {
+    "name": "Denmark",
+    "capital": "Copenhagen",
+    "region": "Europe",
+    "currency": "DKK",
+    "flag": "https://raw.githubusercontent.com/armaganaysu/countrydataset/main/datasetcountries/dnk.png",
+    "language": "Danish"
+  },
+  {
+    "name": "Estonia",
+    "capital": "Tallinn",
+    "region": "Europe",
+    "currency": "EUR",
+    "flag": "https://raw.githubusercontent.com/armaganaysu/countrydataset/main/datasetcountries/est.png",
+    "language": "Estonian"
+  },
+  {
+    "name": "Finland",
+    "capital": "Helsinki",
+    "region": "Europe",
+    "currency": "EUR",
+    "flag": "https://raw.githubusercontent.com/armaganaysu/countrydataset/main/datasetcountries/fin.png",
+    "language": "Finnish"
+  },
+  {
+    "name": "Greece",
+    "capital": "Athens",
+    "region": "Europe",
+    "currency": "EUR",
+    "flag": "https://raw.githubusercontent.com/armaganaysu/countrydataset/main/datasetcountries/grc.png",
+    "language": "Greek"
+  },
+  {
+    "name": "Haiti",
+    "capital": "Port-au-Prince",
+    "region": "Americas",
+    "currency": "HTG",
+    "flag": "https://raw.githubusercontent.com/armaganaysu/countrydataset/main/datasetcountries/hti.png",
+    "language": "Haitian"
+  },
+  {
+    "name": "Indonesia",
+    "capital": "Jakarta",
+    "region": "Asia",
+    "currency": "IDR",
+    "flag": "https://raw.githubusercontent.com/armaganaysu/countrydataset/main/datasetcountries/idn.png",
+    "language": "Indonesian"
+  },
+  {
+    "name": "Ireland",
+    "capital": "Dublin",
+    "region": "Europe",
+    "currency": "EUR",
+    "flag": "https://raw.githubusercontent.com/armaganaysu/countrydataset/main/datasetcountries/irl.png",
+    "language": "English"
+  },
+  {
+    "name": "Japan",
+    "capital": "Tokyo",
+    "region": "Asia",
+    "currency": "JPY",
+    "flag": "https://raw.githubusercontent.com/armaganaysu/countrydataset/main/datasetcountries/jpn.png",
+    "language": "Japanese"
+  },
+  {
+    "name": "Russian Federation",
+    "capital": "Moscow",
+    "region": "Europe",
+    "currency": "RUB",
+    "flag": "https://raw.githubusercontent.com/armaganaysu/countrydataset/main/datasetcountries/rus.png",
+    "language": "Russian"
+  },
+  {
+    "name": "Turkey",
+    "capital": "Ankara",
+    "region": "Asia",
+    "currency": "TRY",
+    "flag": "https://raw.githubusercontent.com/armaganaysu/countrydataset/main/datasetcountries/tur.png",
+    "language": "Turkish"
+  }
+]
